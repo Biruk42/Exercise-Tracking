@@ -1,4 +1,4 @@
-# Exercise Tracker README
+# Exercise Tracker
 
 This Python script allows users to track their exercises by sending a request to the Nutritionix API, recording the workout data in a Google Sheets document.
 
